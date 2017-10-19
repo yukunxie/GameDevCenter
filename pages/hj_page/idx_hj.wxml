@@ -1,2 +1,4 @@
 <!--pages/hj_page/idx_hj.wxml-->
-<text>猜猜这个页面是做啥子的？</text>
+<view class='container'>
+  <text>猜猜这个页面是做啥子的？</text>
+</view>
