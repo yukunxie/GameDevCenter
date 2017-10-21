@@ -19,3 +19,23 @@
 .usermotto {
   margin-top: 20px;
 }
+
+.my-free-card{
+  display: flex;
+  width:90%;
+  padding:1%;
+  border:1px solid #ddd;
+  border-radius: 10rpx;
+  background:#999;
+}
+
+.my-image{
+  width:750px;
+  text-align: center;
+}
+
+.my-text{
+  width:100%;
+  position: absolute;
+  bottom:1%;
+}

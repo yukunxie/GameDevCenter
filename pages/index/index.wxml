@@ -7,7 +7,16 @@
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
   </view>
-  <image style="margin-left: 2px; margin-right:2px; height: 200px; margin-top: 20px;background-color: #eeeeee;" mode="{{item.mode}}" src="http://img.tuku.cn/file_thumb/201504/m2015041617184092.jpg"></image>
+
+  <view class="my-free-card">
+    <image class="my-image" mode="widthFix" src="http://img.tuku.cn/file_thumb/201504/m2015041617184092.jpg">
+    </image>
+    <view class="my-text">
+      <text class="fontWeight fontSize30" style="color:#f60;">￥99</text>/ 天 
+    </view>
+  </view>
+
+  
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>

@@ -53,7 +53,7 @@ Page({
   },
   tapName: function (event) {
     wx.navigateTo({
-      url: '../hj_page/idx_hj'
+      url: '../card/Card'
     })
   }
 })
